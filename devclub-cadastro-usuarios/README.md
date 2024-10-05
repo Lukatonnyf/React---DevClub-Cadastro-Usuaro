@@ -1,8 +1,17 @@
-# React + Vite
+# Como Rodar o projeto Frontend?
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+para rodar o projeto, basta dar o seguinte comando no terminal :
+cd devclub-cadastro-usuarios
 
-Currently, two official plugins are available:
+Logo após ter entrado na pasta, utilize o seguinte comando :
+npm run dev OU npm run build
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# COMO LIGAR O BACKEND?
+
+Entre na pasta do projeto com o seguinte comando:
+cd nodejs
+
+Logo após ter entrado na pasta do projeto, utilize o comando:
+node --watch server.js
+
+Lembre-se de ficar reestartando o servidor do backend para não dar conflito com o frontend.
