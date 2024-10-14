@@ -80,8 +80,3 @@ OBJETIVO
 */
 
 
-/* 
-banco de dados
-    usuario : lukatonny
-   senha: 16092007
-*/
